@@ -1,4 +1,5 @@
-# drinx-frontapp
+# Drinx WebApp
+[![CodeFactor](https://www.codefactor.io/repository/github/projectdrinx/drinx-frontend/badge)](https://www.codefactor.io/repository/github/projectdrinx/drinx-frontend)
 
 This template should help get you started developing with Vue 3 in Vite.
 
