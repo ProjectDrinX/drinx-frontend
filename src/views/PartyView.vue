@@ -13,15 +13,11 @@ import Tutorial from '@/components/home/Tutorial.vue'
 
     <div class="box mt-4 round row">
 
-      <div class="col-xl round d-flex justify-content-center"> <!-- align-items-center flex-column -->
-        
-        <MainMenu />
+      <div class="col-xl-8 d-flex justify-content-center"> <!-- align-items-center flex-column -->
 
       </div>
         
-      <div class="col-xl">
-
-        <Tutorial />
+      <div class="col-xl-4 round">
 
       </div>
 
@@ -43,11 +39,11 @@ import Tutorial from '@/components/home/Tutorial.vue'
   min-height: 80vh;
 }
 .box > div:first-child {
-  background-color: #E68F28;
+
 }
 
 .box > div:last-child {
-
+  background-color: #E68F28;
 }
 
 </style>
